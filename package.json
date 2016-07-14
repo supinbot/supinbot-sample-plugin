@@ -1,0 +1,19 @@
+{
+  "name": "supinbot-sample-plugin",
+  "version": "1.0.0",
+  "description": "An empty plugin to use as a base for new plugins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supinbot/supinbot-sample-plugin.git"
+  },
+  "author": "Starfox64",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supinbot/supinbot-sample-plugin/issues"
+  },
+  "homepage": "https://github.com/supinbot/supinbot-sample-plugin#readme"
+}
